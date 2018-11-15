@@ -1,0 +1,14 @@
+package text_p47;
+
+import java.util.Comparator;
+
+public class Collections {
+
+	public static Object reverseOrder;
+
+	public static Comparator reverseOrder() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+}
